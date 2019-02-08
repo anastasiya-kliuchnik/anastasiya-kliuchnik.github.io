@@ -98,6 +98,16 @@ body {
     margin: 0;
 }
 
+.text__small{
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.text__big{
+    font-size: 18px;
+    font-weight: 500;
+}
+
 
 @media(max-width:767px) {
 
